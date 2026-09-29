@@ -23,12 +23,14 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/koushikkumbham/dsa-java/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/koushikkumbham/dsa-java/tree/main/0055-jump-game/) | Medium |
+| [0198-house-robber](https://github.com/koushikkumbham/dsa-java/tree/main/0198-house-robber/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/koushikkumbham/dsa-java/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0045-jump-game-ii](https://github.com/koushikkumbham/dsa-java/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/koushikkumbham/dsa-java/tree/main/0055-jump-game/) | Medium |
+| [0198-house-robber](https://github.com/koushikkumbham/dsa-java/tree/main/0198-house-robber/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
