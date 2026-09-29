@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/koushikkumbham/dsa-java/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0006-zigzag-conversion](https://github.com/koushikkumbham/dsa-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0020-valid-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
