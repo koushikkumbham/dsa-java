@@ -8,18 +8,21 @@
 | [0006-zigzag-conversion](https://github.com/koushikkumbham/dsa-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/koushikkumbham/dsa-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/koushikkumbham/dsa-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0856-score-of-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0856-score-of-parentheses/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/koushikkumbham/dsa-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -39,6 +42,7 @@
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/koushikkumbham/dsa-java/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/koushikkumbham/dsa-java/tree/main/0055-jump-game/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/koushikkumbham/dsa-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
