@@ -10,6 +10,7 @@
 | [0072-edit-distance](https://github.com/koushikkumbham/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [0856-score-of-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koushikkumbham/dsa-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/koushikkumbham/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -39,6 +40,7 @@
 | [0055-jump-game](https://github.com/koushikkumbham/dsa-java/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/koushikkumbham/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/koushikkumbham/dsa-java/tree/main/0198-house-robber/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/koushikkumbham/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,4 +55,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/koushikkumbham/dsa-java/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/koushikkumbham/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
