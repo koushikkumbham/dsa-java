@@ -8,6 +8,7 @@
 | [0006-zigzag-conversion](https://github.com/koushikkumbham/dsa-java/tree/main/0006-zigzag-conversion/) | Medium |
 | [0020-valid-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0020-valid-parentheses/) | Easy |
 | [0072-edit-distance](https://github.com/koushikkumbham/dsa-java/tree/main/0072-edit-distance/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/koushikkumbham/dsa-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0856-score-of-parentheses](https://github.com/koushikkumbham/dsa-java/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/koushikkumbham/dsa-java/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/koushikkumbham/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -40,6 +41,7 @@
 | [0055-jump-game](https://github.com/koushikkumbham/dsa-java/tree/main/0055-jump-game/) | Medium |
 | [0072-edit-distance](https://github.com/koushikkumbham/dsa-java/tree/main/0072-edit-distance/) | Medium |
 | [0198-house-robber](https://github.com/koushikkumbham/dsa-java/tree/main/0198-house-robber/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/koushikkumbham/dsa-java/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/koushikkumbham/dsa-java/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
